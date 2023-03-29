@@ -1,0 +1,160 @@
+
+html
+{ 
+    font-size: 62.5%;
+
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.ul1
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 115.0rem;
+}
+
+li {
+    display: inline;
+    margin: 1rem;
+  }
+
+  .div1
+  {
+    background:transparent;
+  }
+
+  body
+  {
+    background-image: url("d2.jpg");
+    background-repeat: no-repeat;
+    background-size: 185rem 72rem;
+
+  }
+
+  nav 
+  {
+    color: beige;
+    font-size: 2.5rem;
+    margin-top: -1rem;
+    position: fixed;
+  }
+.p1
+{
+    font-size: 4.5rem;
+    color: rgb(0, 157, 255);
+    margin-top: 10rem;
+    margin-left: 10rem;
+    font-family: cursive;
+}
+.d1
+{
+    color: rgb(0, 157, 255);
+    font-size: 6rem;
+    margin-left: 10rem;
+    font-family: cursive;
+}
+
+.p0
+{
+    color: rgb(255, 76, 6);
+    font-size: 4.5rem;
+    margin-left: 10rem;
+    margin-top: 4rem;
+    
+}
+.link
+{
+    color: rgb(250, 250, 250);
+    text-decoration: none;
+}
+li a:hover
+{
+    color: rgb(255, 102, 0);
+}
+.p2
+{
+    
+    font-size: 3.5rem;
+    padding: 2rem;  
+}
+.profile
+{
+    height: 40rem;
+    width: 30rem;
+    margin-left: 5rem;
+    margin-top: 5rem;
+    border-radius: 3.5rem;
+}
+#about
+{
+    background-color: black;
+    color: white;
+    margin-top: 36.5rem;
+    height: 72rem;
+}
+
+.p3
+{
+    font-size: 3.5rem;
+    float: right;
+    margin-right: 20rem;
+    padding-top: 6rem;
+    
+}
+
+.p4
+{
+    
+    font-size: 3.5rem;
+    padding: 2rem; 
+    color: aliceblue; 
+}
+
+#contact
+{
+    background-color: #000000;
+    color: black;
+    margin-top: .6rem;
+}
+
+#contact
+{
+    background-image: url(contact.jpeg);
+    height: 72rem;
+    width: 146.2rem;
+    background-repeat: no-repeat
+}
+.div4
+{
+    color: rgb(255, 255, 255);
+    font-size: 3rem;
+    padding-left: 20rem;
+    padding-top: 8rem;
+}
+.img2
+{
+    height: 3rem;
+    padding-left: 20rem;
+    padding-top: 5rem;
+}
+
+.div5
+{
+    font-size: 1.5rem;
+}
+@media screen and (max-width: 99.8rem) 
+{
+   html
+   {
+       font-size: 50%;
+
+   }
+
+}
+
+   
+

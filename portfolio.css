@@ -25,6 +25,14 @@ li {
   .div1
   {
     background:transparent;
+    /* padding-top: .25rem; */
+  }
+
+
+  .div2
+  {
+    padding-top: 5rem;
+
   }
 
   body
@@ -40,7 +48,8 @@ li {
     color: beige;
     font-size: 2.5rem;
     margin-top: -1rem;
-    position: fixed;
+    padding-top: 2rem;
+    position:fixed;
   }
 .p1
 {
@@ -64,6 +73,7 @@ li {
     font-size: 4.5rem;
     margin-left: 10rem;
     margin-top: 4rem;
+    padding-top: .25rem;
     
 }
 .link
@@ -93,7 +103,7 @@ li a:hover
 {
     background-color: black;
     color: white;
-    margin-top: 36.5rem;
+    margin-top: 31rem;
     height: 72rem;
 }
 
@@ -101,8 +111,8 @@ li a:hover
 {
     font-size: 3.5rem;
     float: right;
-    margin-right: 20rem;
-    padding-top: 6rem;
+    margin-right: 14rem;
+    padding-top: 8rem;
     
 }
 
@@ -125,7 +135,7 @@ li a:hover
 {
     background-image: url(contact.jpeg);
     height: 72rem;
-    width: 152rem;
+    width: 146.5rem;
     background-repeat: no-repeat
 }
 .div4
@@ -146,7 +156,7 @@ li a:hover
 {
     font-size: 1.5rem;
 }
-@media screen and (max-width: 99.8rem) 
+ /* @media screen and (max-width: 99.8rem) 
 {
    html
    {
@@ -154,7 +164,19 @@ li a:hover
 
    }
 
-}
-
+} */
+@media screen and (max-width: 48) {
+    header {
+      padding: 0.625rem;
+    }
+    
+    .div1 .ul1 {
+      margin:  0.625rem;
+    }
+    
+    .sec1 {
+      padding: 1.25rem;
+    }
+   } 
    
 

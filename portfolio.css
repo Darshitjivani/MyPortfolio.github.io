@@ -156,8 +156,6 @@ nav a:hover
 #contact
 {
     background-image: url(contact.jpeg);
-    height: 70rem;
-    width: 147rem;
     background-repeat: no-repeat
 }
 .div4
@@ -199,5 +197,6 @@ nav a:hover
       padding: 1.25rem;
     }
    } 
+
    
 
